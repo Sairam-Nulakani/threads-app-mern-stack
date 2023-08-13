@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 Threads App
+Designed and Developed with Clerk
 
 First, run the development server:
 
